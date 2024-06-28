@@ -1,4 +1,5 @@
 Welcome, pleasure! Nathan Mauricio Rodrigues Lopes 😁
+
 🧑‍🎓 I'm graduating in Computer Science at UniCEUB.
 🖥️ Full-Stack Developer.
 🤓 Studying and looking for a job opportunity.
