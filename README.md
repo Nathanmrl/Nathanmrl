@@ -1,9 +1,4 @@
-Welcome, pleasure! Nathan Mauricio Rodrigues Lopes 😁
+Me chamo Nathan Lopes, atualmente estou cursando Ciência da Computação. Sou apaixonado por tecnologia e busco constantemente aplicar minha lógica de programação para solucionar problemas complexos.
 
-🧑‍🎓 I'm graduating in Computer Science at UniCEUB.
-🖥️ Full-Stack Developer.
-🤓 Studying and looking for a job opportunity.
-<!---
-Nathanmrl/Nathanmrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Minha experiência prática concentra-se no Backend (Python/SQL) e na Prototipação de Interfaces usando Figma, com o objetivo de construir soluções completas e focadas na experiência do usuário. Sou proativo e colaborativo, características que aprimorei em projetos acadêmicos.
+
