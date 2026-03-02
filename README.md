@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Nathan Maurício Rodrigues Lopes
 
-**`Desenvolvedor Backend | Estudante de Ciência da Computação`**
+**`Desenvolvedor Fullstack | Estudante de Ciência da Computação`**
 
 Me chamo Nathan Maurício Rodrigues Lopes, tenho 22 anos e sou estudante de Ciência da Computação. Sou apaixonado por tecnologia e desenvolvimento de software, com foco em construir soluções eficientes, escaláveis e bem estruturadas.
 
