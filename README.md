@@ -8,7 +8,7 @@ Tenho experiência prática com desenvolvimento Backend em C#, Java, Python e SQ
 
 🧠 Compilador em C com analisador léxico próprio
 
-🏪 Sistema de gerenciamento de estoque para empresa de radiadores (com leitura de boletos usando IA do Google)
+🏪 Sistema de gerenciamento de estoque para empresa de radiadores
 
 🛒 Site de loja de materiais escolares
 
