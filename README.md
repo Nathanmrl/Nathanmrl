@@ -78,7 +78,7 @@ Formação com foco em **modelos supervisionados e não supervisionados**, anál
 Certificação voltada à **visualização e análise de dados com Power BI**, criação de dashboards interativos, modelagem de dados e geração de insights estratégicos.
 
 <p align="left">
-<a href=["https://drive.google.com/drive/folders/1_4MEWGvi_6yDAUXRtQNJdbIDMcTL_HM-?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Meus%20Certificados-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
-</a>
+  <a href="https://drive.google.com/drive/folders/1_4MEWGvi_6yDAUXRtQNJdbIDMcTL_HM-?usp=drive_link">
+    <img src="https://img.shields.io/badge/Ver%20Meus%20Certificados-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 </p>
