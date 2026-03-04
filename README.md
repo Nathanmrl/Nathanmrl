@@ -46,3 +46,39 @@ Tenho experiência prática com desenvolvimento Backend em C#, Java, Python e SQ
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </p>
+
+## 🎓 Certificações
+
+### 🗄️ ADM BD – Bradesco  
+Certificação voltada à **Administração de Banco de Dados**, abordando modelagem, estruturação, controle de acesso, integridade dos dados e boas práticas de gerenciamento. Desenvolvimento de competências para garantir segurança, desempenho e confiabilidade em ambientes corporativos.
+
+---
+
+### 📊 Excel – Bradesco  
+Formação focada em **análise e manipulação de dados no Excel**, incluindo fórmulas avançadas, tabelas dinâmicas, gráficos e organização de informações. Aplicação prática para suporte à tomada de decisão e análise de indicadores.
+
+---
+
+### ☁️ IA no Azure – Bradesco  
+Certificação voltada à aplicação de **Inteligência Artificial na plataforma Microsoft Azure**, incluindo serviços cognitivos, automação, análise de dados e integração de soluções em nuvem. Foco em soluções escaláveis baseadas em cloud computing.
+
+---
+
+### 🤖 Inteligência Artificial – Bradesco  
+Curso com fundamentos de **Machine Learning, algoritmos de IA e aplicações práticas**, abordando modelos preditivos, análise de padrões e uso estratégico da inteligência artificial em negócios.
+
+---
+
+### 🧠 Machine Learning – Columbia+  
+Formação com foco em **modelos supervisionados e não supervisionados**, análise estatística e construção de modelos preditivos. Desenvolvimento de pensamento analítico aplicado a dados.
+
+---
+
+### 📈 Power BI – Bradesco  
+Certificação voltada à **visualização e análise de dados com Power BI**, criação de dashboards interativos, modelagem de dados e geração de insights estratégicos.
+
+<p align="left">
+<a href=["https://drive.google.com/drive/folders/1_4MEWGvi_6yDAUXRtQNJdbIDMcTL_HM-?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Meus%20Certificados-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+</p>
