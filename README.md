@@ -82,3 +82,23 @@ Certificação voltada à **visualização e análise de dados com Power BI**, c
     <img src="https://img.shields.io/badge/Ver%20Meus%20Certificados-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🤝 Vamos nos conectar
+
+Se quiser conversar sobre tecnologia, projetos, oportunidades ou trocar conhecimento, fique à vontade para entrar em contato.
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nathan-mauricio-rodrigues-lopes-304126225">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nathan.lopes@sempreceub.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
