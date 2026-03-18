@@ -4,7 +4,7 @@
 
 Me chamo Nathan Maurício Rodrigues Lopes, tenho 22 anos e sou estudante de Ciência da Computação. Sou apaixonado por tecnologia e desenvolvimento de software, com foco em construir soluções eficientes, escaláveis e bem estruturadas.
 
-Tenho experiência prática com desenvolvimento Backend em C#, Java, Python e SQL, criação de aplicações desktop com WPF, integração com banco de dados (incluindo LiteDB,SQL Server e Supabase) e desenvolvimento de projetos acadêmicos como:
+Tenho experiência prática com desenvolvimento Backend em C#, Java, Python e SQL, criação de aplicações desktop com WPF, integração com banco de dados (incluindo LiteDB, SQL Server, PostgerSql, MySql e Supabase) e desenvolvimento de projetos acadêmicos como:
 
 🧠 Compilador em C com analisador léxico próprio
 
